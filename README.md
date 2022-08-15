@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @septianpujis
 - 👀 I’m interested in Website & Mobile app Development
-- 🌱 I’m currently GO Lang
+- 🌱 I’m currently Learning on Front End (CSS, JQuery, React)
 
 <!---
 septianpujis/septianpujis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
